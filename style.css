@@ -1,0 +1,27 @@
+.section-one,.section-two,.section-three,.section-four{
+    height:500px;
+    vertical-align: top;
+    background-color: beige;
+    border:solid black 2px;
+    width:300x;
+    display: inline-block;
+    }
+.black{
+    background-color: black;
+    color: white;
+    padding-top: 4px;
+    }
+.open{
+    background-color: black;
+    color: white;
+    border:transparent;
+}
+.table{
+    color: white;
+    background-color: black;
+    
+}
+.two{
+    background-color: yellowgreen;
+    color: black;
+}
